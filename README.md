@@ -3,7 +3,7 @@ script per server pve
 
 Aggiunge un marker sulla mappa che una volta calpestato fà partire un assalto criminale di npc che tenteranno di ucciderti.
 
-W.I.P 
+W.I.P  potrebbe presentare problemi imprevisti
 
 
 configura lo script
